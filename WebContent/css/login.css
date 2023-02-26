@@ -1,0 +1,74 @@
+/*内容B*/
+.main {
+	height: 800px;
+}
+.main .m_left {
+	margin-top: 130px;
+}
+.main .m_right {
+	width: 450px;
+	height: 620px;
+	background-color: #fff;
+	margin-top: 85px;
+	padding: 0 16px;
+}
+.main .m_right h2 {
+	font: normal 400 30px/100px "微软雅黑";
+	height: 100px;
+	padding-left: 25px;
+}
+.main .m_right .uName_pwd input {
+	width: 250px;
+	height: 58px;
+	border: 1px solid #D8D8D8;
+	font-size: 24px;
+	background: url(../images/sprite.png) no-repeat;
+	padding-left: 50px;
+}
+.main .m_right .uName_pwd .txt {
+	background-position: 10px -480px;
+}
+.main .m_right .uName_pwd .btn {
+	margin-top: 34px;
+	background-position: 10px -538px;
+}
+.main .m_right .remember {
+	height: 100px;
+	font: normal normal 24px/100px "微软雅黑";
+}
+.main .m_right .remember input {
+	width: 24px;
+	height: 24px;
+	vertical-align: middle;
+}
+.main .m_right .loginBtn {
+	width: 450px;
+	height: 60px;
+	background: #E60012;
+	font-size: 24px;
+	color: #fff;
+}
+.main .m_right .other {
+	height: 130px;
+	font: normal normal 20px/130px "微软雅黑";
+}
+.main .m_right .login_type li{
+	font-size: 14px;
+	background: url(../images/sprite.png) no-repeat;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 24px;
+}
+.main .m_right .login_type a {
+	color: #666;
+	
+}
+.main .login_type .l_t_c {
+	margin-left: 120px;
+}
+.error{
+	color:#cc3300;font-weight: 900;
+	font-size: 9px;
+	
+}
+/*内容E*/
